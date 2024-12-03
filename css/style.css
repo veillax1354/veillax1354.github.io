@@ -1,0 +1,18 @@
+.container {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dark {
+    background-color: #17141F !important;
+    color: #ADB5BD !important;
+
+}
+
+#footer-div {
+    width: 100%;
+}
+  
+#footer {
+    background-color: #201d26 !important;
+}
